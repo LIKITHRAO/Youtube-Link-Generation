@@ -3,23 +3,7 @@ from googleapiclient.discovery import build
 
 # List of YouTube API keys
 YOUTUBE_API_KEYS = [
-    "AIzaSyD5m_h5H8nApN94roOA9JbZ8KtPqWaJPYU",
-    "AIzaSyA-ERHQRa3NkWGWNQUgpTnT_aWDTXZc4NQ",
-    "AIzaSyAVuUiEIHL4FTn3x2n5bEqaTnUEmjvf6Kk",
-    "AIzaSyDFUoMTGkzBng7-tRJ7jMYsgCz5GF_4lzw",
-    "AIzaSyBii9HPujRbCRmIVzds9nHIJBWaVVMR-uU",
-    "AIzaSyBavY7p3qPzOHxkXtmBtibM3adctnFj_GY",
-    "AIzaSyCYaFUZf3Gjc-zoLk3Re13_m3bdQfpfcpc",
-    "AIzaSyBswMsCFgXBvyZMbTVX9eNTqPI0jgDH1YI",
-    "AIzaSyAe-ISKMidAnCZVVD7Va4tFLoI3lAQCxHk",
-
-
-
-
-
-
-
-
+  
 ]
 
 # Initialize YouTube API key index and query count
